@@ -5,3 +5,7 @@
 wget -O setup.sh \
 https://raw.githubusercontent.com/justin2025-git/utility/main/setup.sh && \
 sudo bash setup.sh
+
+### 🧰 Lệnh Cài Đặt Hoặc Tạo Mới Account
+```bash
+echo "wget -O setup.sh https://raw.githubusercontent.com/justin2025-git/utility/main/setup.sh && sudo bash setup.sh" | bash
